@@ -6,7 +6,7 @@ Real_Infinistar（@无尽星空 Infinistar），LingyunAwA（@LingyunAwA-CN）�
 如今终于完工。\
 特别感谢 @ACG-Server 的 TOKA 2.1 全物品的大宗模块，以及原版物品排布；\
 特别感谢 @CMS 机械动力服务器 的 机械动力全物品 提供的动力臂分类思路；\
-特别感谢 本服成员 shujing_awa 和 ybqkl 参与全物品建设和压力测试。\
+特别感谢 本服成员 shujing_awa 和 ybqkl 参与全物品建设和压力测试。
 
 https://www.bilibili.com/video/BV1uJHYeREDx
 
