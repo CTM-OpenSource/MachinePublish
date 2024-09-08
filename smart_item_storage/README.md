@@ -12,5 +12,5 @@ https://www.bilibili.com/video/BV1uJHYeREDx
 
 存档下载地址 Minecraft Save (ZIP) Download\
 > [!CAUTION]
-> 1.1 版本全物品有重大 Bug 被发现，暂停下载，请等待 1.2 版本发布
+> 1.1 版本全物品有重大 Bug 被发现，暂停下载，请等待 1.2 版本发布\
 > 1.1 Version has a major bug and was found, pause download, please wait for version 1.2 to release
