@@ -6,6 +6,6 @@
 
 https://www.bilibili.com/video/BV1uKHfe8EiH
 
-NBT 蓝图文件下载地址
+NBT 蓝图文件下载地址 NBT Schematic Download\
 中国大陆地区 https://pan.baidu.com/s/1caeXRZt67oiTF81ovYKX3w?pwd=shdt \
-其他地区 Other Region https://github.com/CTM-OpenSource/MachinePublish/raw/main/selectable_elevator/selectable_elevator.nbt
+Other Region https://github.com/CTM-OpenSource/MachinePublish/raw/main/selectable_elevator/selectable_elevator.nbt
