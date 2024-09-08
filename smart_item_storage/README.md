@@ -11,5 +11,6 @@ Real_Infinistar（@无尽星空 Infinistar），LingyunAwA（@LingyunAwA-CN）�
 https://www.bilibili.com/video/BV1uJHYeREDx
 
 存档下载地址 Minecraft Save (ZIP) Download\
-中国大陆地区 https://pan.baidu.com/s/1qSYgizYFVEQDYjNK4AiAEQ?pwd=qwp1 \
-Other Region https://github.com/CTM-OpenSource/MachinePublish/raw/main/smart_item_storage/smart_item_storage.zip
+> [!CAUTION]
+> 1.1 版本全物品有重大 Bug 被发现，暂停下载，请等待 1.2 版本发布
+> 1.1 Version has a major bug and was found, pause download, please wait for version 1.2 to release
