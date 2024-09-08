@@ -1,4 +1,4 @@
-## 【MC】1728k/h全物品智能分类中心！
+## 【机械动力】1728k/h全物品智能分类中心！
 
 CTM 服务器机械动力全物品中心，由 CTM 服务器成员\
 Real_Infinistar（@无尽星空 Infinistar），LingyunAwA（@LingyunAwA-CN）主持设计，Multitouches（@多点触碰）指导优化\
