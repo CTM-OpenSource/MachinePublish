@@ -10,7 +10,14 @@ Real_Infinistar（@无尽星空 Infinistar），LingyunAwA（@LingyunAwA-CN）�
 
 https://www.bilibili.com/video/BV1uJHYeREDx
 
-存档下载地址 Minecraft Save (ZIP) Download\
-> [!CAUTION]
-> 1.1 版本全物品有重大 Bug 被发现，暂停下载，请等待 1.2 版本发布\
-> 1.1 Version has a major bug and was found, pause download, please wait for version 1.2 to release
+下载地址 Download
+> [!NOTE]
+> 1.2 版本以提供存档和组件的形式发布，请调整客户端/服务器允许的最大蓝图大小 > 309 KB 确保能够打印\
+> 组件之间以接触式红石信号发生器作为连接标志
+> 
+> 1.2 Version release with world save(zip) and components schematic.\
+> You need to modify schematic size limit config on Client/Server (> 309 KB) for printing\
+> Connection mark between components is `Redstone Contact Block`
+
+中国大陆地区 https://pan.baidu.com/s/186QbRnlrsN9SlK0qes69KQ \
+Other Region [World Save ZIP](https://github.com/CTM-OpenSource/MachinePublish/raw/main/smart_item_storage/smart_item_storage_worldsave.nbt) [Components Schematics](https://github.com/CTM-OpenSource/MachinePublish/raw/main/smart_item_storage/smart_item_storage_schematics.nbt)
